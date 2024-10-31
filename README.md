@@ -13,3 +13,12 @@ Design Responsivo: Compatível com dispositivos móveis e desktops.
 HTML5: Estrutura e semântica.
 CSS3: Estilização e responsividade.
 JavaScript: Lógica de jogo e manipulação do DOM.
+
+🏆 Aprendizados
+Este projeto foi uma excelente prática para desenvolver:
+
+Manipulação do DOM: Aprendi a acessar e modificar elementos do DOM de forma dinâmica.
+Lógica de programação: Estrutura de controle e condicionais para correspondência de pares.
+Experiência com Git e GitHub: Contribuindo em projetos e documentação no GitHub.
+🤝 Agradecimentos
+Agradeço à DIO.Me e ao professor [Nome do Professor] pela oportunidade de aprendizado e desenvolvimento deste projeto.
